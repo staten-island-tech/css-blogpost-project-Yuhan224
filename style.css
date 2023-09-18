@@ -34,12 +34,17 @@ body {
     width: 20vw;
     height: 60px;
     position: relative;
+    text-align: center;
+    left: 560px;
+    top: 300px;
 }
 
 .Pkmn {
     left: 75px;
     top: -100%;
     position: absolute;
+    text-align: center;
+
 }
 
 .knowledge {
@@ -48,6 +53,8 @@ body {
     width: 400;
     top: 90px;
     position: absolute;
+    right: -75;
+    text-align: center;
 }
 
 .minecraft {
@@ -78,6 +85,7 @@ body {
     top: 100px;
     width: 400;
     margin-left: -40px;
+    text-align: center;
 }
 
 .Eldens {background-image: url(Img/elden-ring-990x556.png);
@@ -88,15 +96,16 @@ body {
     margin-top: 200px;
     position: relative;
     height: 135px;
-    left: 1050px;
-    bottom: 590;
+    left: 550;
+    bottom: -20px;
+    text-align: center;
 }
 
 .Elden {
     position: absolute;
     left: 25%;
     width: 115px;
-    bottom: 113px
+    bottom: 113px;
 
 }
 
