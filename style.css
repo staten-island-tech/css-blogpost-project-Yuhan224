@@ -7,6 +7,7 @@ body {
     background-color: blanchedalmond;
     background-image: url(Img/gridoffset-videogames-1-1585583517.jpg);
     background-repeat: no-repeat;
+    opacity: 0.5;
     background-position: center;
     color: red;
     height: 30vh;
@@ -14,7 +15,8 @@ body {
     font-size: x-large;
     font-weight: bold;
     -webkit-text-stroke-width: 2px;
-    -webkit-text-stroke-color: #f400aa
+    -webkit-text-stroke-color: red
+    
 }
 
 .top3 {
